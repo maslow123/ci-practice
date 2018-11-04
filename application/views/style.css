@@ -1,0 +1,21 @@
+body{
+			background: #fff;
+			margin : 40px;
+			font-family: Lucide Grande,Verdana,Sans-serif;
+			font-size:14px;
+			color:#4F5155;
+		}
+		a{
+			color:#003399;
+			background:transparent;
+			font-weight: normal;
+		}
+		h1{
+			color:#444;
+			background:transparent;
+			border-bottom: 1px solid #d0d0d0;
+			font-size:14px;
+			font-weight: bold;
+			margin:24 0 2px 0;
+			padding:5px 0 6px 0;
+		}
